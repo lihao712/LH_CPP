@@ -1,3 +1,3 @@
 # LH_CPP
 
-this is a repositories for me
+李浩本人的代码仓库，其中，Skiplist_CPP文件夹中涉及一个基于跳跃表的键值性存储引擎
